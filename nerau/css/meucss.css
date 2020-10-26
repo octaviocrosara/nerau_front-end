@@ -19,11 +19,11 @@ padding-left:10px;padding-top:2px;margin-left:180px;margin-top:-30px;}
 
 #sub1{width:100%;left:0%;right:0%;min-width:1050px;z-index:999;position:absolute;background:white;height:450px;top:244px;font-family:heeboreg;
 display:none;border-top:1px solid #eeeeee;}
-.subdog1{width:230px;height:280px;margin-right:20px;margin-top:20px;margin-left:120px;font-size:14px;display:block;float:left;}
-.subdog2{width:230px;height:280px;margin-right:20px;margin-top:20px;font-size:14px;display:block;float:left;}
-.subdog3{width:230px;height:280px;margin-right:20px;margin-top:20px;font-size:14px;display:block;float:left;}
-.subdogimg{width:260px;height:340px;display:block;float:left;margin-top:20px;}
-.subdogbaixo{width:730px;height:120px;border-top:2px solid #eeeeee;margin-left:120px;display:block;float:left;margin-top:-50px;font-size:14px;}
+.subdog1{width:220px;height:280px;margin-right:10px;margin-top:20px;margin-left:120px;font-size:14px;display:block;float:left;}
+.subdog2{width:220px;height:280px;margin-right:10px;margin-top:20px;font-size:14px;display:block;float:left;}
+.subdog3{width:220px;height:280px;margin-right:10px;margin-top:20px;font-size:14px;display:block;float:left;}
+.subdogimg{width:230px;height:340px;display:block;float:left;margin-top:20px;}
+.subdogbaixo{width:600px;height:120px;border-top:2px solid #eeeeee;margin-left:120px;display:block;float:left;margin-top:-50px;font-size:14px;}
 
 #preto{min-width:1050px;z-index:990;font-family:heebo;background-color:#141518;height:25px;color:white;top:244px;width:100%;left:0%;right:0%;position:absolute;font-size:14px;padding-top:5px;}
 
@@ -34,15 +34,15 @@ font-size:11px;font-family:heebo;letter-spacing:1px;font-weight:650;line-height:
 .botaobanner2{float:left;padding-left:12px;padding-top:10px;display:block;background:transparent;border-radius:3px;color:white;width:95px;height:27px;
 font-size:11px;font-family:heebo;letter-spacing:1px;font-weight:650;border:1px solid white;line-height:17px;margin-left:20px;}
 
-#estatico{left:0.5%;right:0.5%;top:715px;height:350px;width:99%;position:relative;}
-.peitorais{font-family:heeboreg;width:49.3%;height:350px;background:#F8F8F8;display:block;font-size:14px;color:#242529;font-weight:600;margin-right:10px;float:left;line-height:17px;letter-spacing:1px;}
-.roupinhas{font-family:heeboreg;width:49.3%;height:170px;background:#F8F8F8;display:block;font-size:14px;color:#242529;font-weight:600;float:right;line-height:17px;letter-spacing:1px;}
+#estatico{left:0%;top:745px;height:350px;width:97%;position:relative;min-width:1030px;}
+.peitorais{font-family:heeboreg;width:48%;height:350px;background:#F8F8F8;display:block;font-size:14px;color:#242529;font-weight:600;float:left;line-height:17px;letter-spacing:1px;}
+.roupinhas{font-family:heeboreg;width:48%;height:170px;background:#F8F8F8;display:block;font-size:14px;color:#242529;font-weight:600;float:right;line-height:17px;letter-spacing:1px;}
 
-#latdir{float:right;height:170px;width:49.3%;margin-top:10px;}
-.coleiras{font-family:heeboreg;width:49%;height:170px;background:#F8F8F8;display:block;font-size:14px;color:#242529;font-weight:600;float:left;line-height:17px;letter-spacing:1px;}
-.guias{font-family:heeboreg;width:49%;height:170px;background:#F8F8F8;display:block;font-size:14px;color:#242529;font-weight:600;float:right;line-height:17px;letter-spacing:1px;}
+#latdir{float:right;height:170px;width:48%;margin-top:10px;right:1%;}
+.coleiras{font-family:heeboreg;width:48%;height:170px;background:#F8F8F8;display:block;font-size:14px;color:#242529;font-weight:600;float:left;line-height:17px;letter-spacing:1px;}
+.guias{margin-right:0px;font-family:heeboreg;width:48%;height:170px;background:#F8F8F8;display:block;font-size:14px;color:#242529;font-weight:600;float:right;line-height:17px;letter-spacing:1px;}
 
-#gatochorro{width:100%;min-width:1050px;left:0%;position:absolute;top:2050px;height:350px;}
+#gatochorro{width:99%;min-width:1050px;left:0%;position:absolute;top:2050px;height:350px;}
 .cachorro{float:left;margin-left:15px;width:47.5%;background:orange;height:350px;background:url('../ehdog.jpg');background-size:650px;}
 .gato{float:left;margin-left:20px;width:47.5%;background:orange;height:350px;background:url('../ehgato.jpg');background-size:650px;}
 .botaocho{float:left;padding-left:15px;padding-top:10px;display:block;background:white;border-radius:3px;color:#242529;width:85px;height:27px;
@@ -50,16 +50,16 @@ font-size:11px;font-family:heebo;letter-spacing:1px;font-weight:600;line-height:
 .taescrito{float:right;margin-top:100px;margin-right:100px;}
 .taescrito2{float:left;margin-top:100px;margin-left:100px;}
 
-#instagram{width:100%;min-width:1050px;height:320px;top:2440px;left:0%;position:absolute;margin-top:20px;}
+#instagram{width:100%;min-width:1050px;height:320px;top:2440px;left:0%;right:0%;position:absolute;margin-top:20px;}
 .box_insta{height:200px; width:95%; margin:0 auto;border-radius:4px;overflow:hidden;position:relative;z-index:8;min-width:1050px;}
-.graleft{background-image: linear-gradient(to right, white 0%, transparent 100%);margin-left:31px;z-index:900;float:left;height:220px;width:255px;margin-bottom:-210px;position:relative;}
-.gradir{background-image: linear-gradient(to left, white 0%, transparent 100%);float:right;position:relative;z-index:900;height:220px;width:255px;margin-top:-210px;}
+.graleft{background-image: linear-gradient(to right, white 0%, transparent 100%);z-index:900;float:left;height:220px;width:275px;margin-bottom:-210px;position:relative;}
+.gradir{background-image: linear-gradient(to left, white 0%, transparent 100%);float:right;position:relative;z-index:900;height:220px;width:275px;margin-top:-210px;}
 .carinsta{display:block;width:1000%;margin-top:16px;}
 .refinsta{float:left;margin-left:25px;z-index:800;cursor:pointer;}
 
 #revender{width:100%;min-width:1050px;background:url('../fundo_lar.jpg');background-size:1400px;
 height:485px;position:absolute;top:2800px;left:0%;color:white;}
-.textorev{float:left;margin-left:135px;margin-top:45px;font-family:heebo;width:450px;height:375px;}
+.textorev{float:left;margin-left:120px;margin-top:45px;font-family:heebo;width:450px;height:375px;}
 .botaorep{float:left;padding-left:18px;padding-top:15px;display:block;background:white;border-radius:3px;color:#242529;width:195px;height:30px;
 font-size:13px;font-family:heebo;letter-spacing:1px;font-weight:600;line-height:17px;margin-right:20px;}
 .botaofranq{float:left;padding-left:18px;padding-top:15px;display:block;background:white;border-radius:3px;color:#FF5100;width:191px;height:30px;
@@ -73,11 +73,11 @@ font-size:13px;font-family:heebo;letter-spacing:1px;font-weight:600;line-height:
 .cg{font-family:heebo;text-decoration: none;padding:5px;font-weight:500;font-size:13px;color:white;background-color:#FF5100;
 border-radius: 3px;cursor:pointer;border:none;width:120px;height:40px;line-height:17px;letter-spacing:1px;margin-left:5px;}
 .cg:hover{background-color:orange;color:white;}
-input[type=text]{height:40px;font-size:15px;margin-right:10px;}
+input[type=text]{height:40px;font-size:15px;margin-right:10px;border:1px solid #43444A;}
 
 #footer{position:absolute;top:3550px;min-width:1050px;font-family:heebo;height:900px;width:100%;background:#F8F8F8;left:0%;}
 .fimzao{position:absolute;bottom:0px;min-width:1050px;background-color:#141518;height:30px;color:white;width:100%;left:0%;right:0%;font-size:14px;padding-top:8px;}
-.prefim{position:relative;margin-left:360px;width:790px;height:220px;margin-top:65px;color:#242529;font-size:15px;float:left;background:#F8F8F8;}
+.prefim{position:relative;margin-left:300px;width:56%;height:220px;margin-top:65px;color:#242529;font-size:15px;float:left;background:#F8F8F8;}
 
 #doisfim{width:100%;min-width:1050px;height:405px;padding-top:90px;border-bottom:2px solid #eeeeee;background:url('../segura.jpg');background-size:1400px;}
 .blocosfim{position:relative;margin:0 auto;margin-top:25px;width:900px;height:310px;display:block;}
