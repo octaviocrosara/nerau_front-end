@@ -152,7 +152,7 @@ Atendimento ao cliente</a>
 </div>
 
 <div class="subdogimg">
-<img width="260px" height="340px" src="roupas.jpg">
+<img width="230px" height="310px" src="roupas.jpg">
 </div>
 <div class="subdogbaixo">
 <br>
@@ -166,7 +166,7 @@ Atendimento ao cliente</a>
 <center>Indique amigos para conhecer a Logoipsum. <b>Dê 15% OFF e ganhe R$ 25. Comece agora</b></center>
 </div>
 
-<img width="100%" height="70%" style="min-width:1050px;position:absolute;margin-top:264px;left:0%;right:0%;" src="fundo_img.jpg">
+<img width="100%" height="450px;" style="min-width:1050px;position:absolute;margin-top:264px;left:0%;right:0%;" src="fundo_img.jpg">
 
 <div id="bannerlink">
 <p style="font-size:13px;">NOVA<br>
@@ -324,7 +324,7 @@ GUIAS</center>
 <div class="gradir">
 </div>
 
-<svg class="setadir" style="position:relative;z-index:999;margin-top:-130px;margin-right:-80px;cursor:pointer;float:right;" width="80" height="80" viewBox="0 0 105 105" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg class="setadir" style="position:relative;z-index:999;margin-top:-138px;margin-right:-100px;cursor:pointer;float:right;" width="80" height="80" viewBox="0 0 105 105" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d)">
 <circle cx="52.5" cy="46.5" r="27.5" fill="#FF5100"/>
 </g>
