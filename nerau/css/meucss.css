@@ -1,0 +1,98 @@
+#teto{position:absolute;top:0;height:52px;width:100%;background-color:#F8F8F8;color:black;left:0;right:0%;min-width:1050px;}
+.noteto{font-size:15px;width:49.8%;float:left;border:1px solid #eeeeee;height:38px;display:block;padding-top:12px;font-family:heebo;}
+.noteto:hover{border:1px solid orange;}
+
+#baixoteto{right:0%;left:0%;width:99.8%;top:52px;position:absolute;height:86px;border:1px solid #eeeeee;min-width:1050px;}
+.lojaeaten{margin-left:15px;margin-top:35px;float:left;width:42%;font-family:heebo;display:block;}
+
+#baixoteto2{left:0%;right:0%;float:right;width:50%;height:86px;}
+.lojaganhe{font-family:heebo;background-color:#FFEEE5;width:270px;height:29px;font-size:15px;margin-top:30px;float:left;margin-left:10px;color:#BE8E74;
+padding-top:7px;padding-left:20px;display:block;margin-right:50px;}
+
+.usuario{border-left:2px solid #eeeeee;float:left;margin-top:30px;height:36px;width:80px;}
+
+#menu{height:106px;top:138px;width:100%;position:absolute;left:0%;right:0%;min-width:1050px;}
+.menuesq{float:left;margin-top:35px;width:25%;margin-left:130px;}
+.scooby{font-family:heebo;font-weight:bold;color:#38C9AC;background:#EBFAF7;border-radius:13px;height:25px;width:108px;font-size:17px;
+padding-left:10px;padding-top:2px;margin-left:180px;margin-top:-30px;}
+.links{float:left;font-family:heebo;margin-left:80px;font-size:18px;margin-top:45px;}
+
+#sub1{width:100%;left:0%;right:0%;min-width:1050px;z-index:999;position:absolute;background:white;height:450px;top:244px;font-family:heeboreg;
+display:none;border-top:1px solid #eeeeee;}
+.subdog1{width:230px;height:280px;margin-right:20px;margin-top:20px;margin-left:120px;font-size:14px;display:block;float:left;}
+.subdog2{width:230px;height:280px;margin-right:20px;margin-top:20px;font-size:14px;display:block;float:left;}
+.subdog3{width:230px;height:280px;margin-right:20px;margin-top:20px;font-size:14px;display:block;float:left;}
+.subdogimg{width:260px;height:340px;display:block;float:left;margin-top:20px;}
+.subdogbaixo{width:730px;height:120px;border-top:2px solid #eeeeee;margin-left:120px;display:block;float:left;margin-top:-50px;font-size:14px;}
+
+#preto{min-width:1050px;z-index:990;font-family:heebo;background-color:#141518;height:25px;color:white;top:244px;width:100%;left:0%;right:0%;position:absolute;font-size:14px;padding-top:5px;}
+
+#bannerlink{position:absolute;top:410px;z-index:995;font-family:heebo;margin-left:220px;float:left;color:white;}
+#nobanner{width:320px;height:50px;display:block;}
+.botaobanner{float:left;padding-left:12px;padding-top:10px;display:block;background:white;border-radius:3px;color:#242529;width:135px;height:27px;
+font-size:11px;font-family:heebo;letter-spacing:1px;font-weight:650;line-height:17px;}
+.botaobanner2{float:left;padding-left:12px;padding-top:10px;display:block;background:transparent;border-radius:3px;color:white;width:95px;height:27px;
+font-size:11px;font-family:heebo;letter-spacing:1px;font-weight:650;border:1px solid white;line-height:17px;margin-left:20px;}
+
+#estatico{left:0.5%;right:0.5%;top:715px;height:350px;width:99%;position:relative;}
+.peitorais{font-family:heeboreg;width:49.3%;height:350px;background:#F8F8F8;display:block;font-size:14px;color:#242529;font-weight:600;margin-right:10px;float:left;line-height:17px;letter-spacing:1px;}
+.roupinhas{font-family:heeboreg;width:49.3%;height:170px;background:#F8F8F8;display:block;font-size:14px;color:#242529;font-weight:600;float:right;line-height:17px;letter-spacing:1px;}
+
+#latdir{float:right;height:170px;width:49.3%;margin-top:10px;}
+.coleiras{font-family:heeboreg;width:49%;height:170px;background:#F8F8F8;display:block;font-size:14px;color:#242529;font-weight:600;float:left;line-height:17px;letter-spacing:1px;}
+.guias{font-family:heeboreg;width:49%;height:170px;background:#F8F8F8;display:block;font-size:14px;color:#242529;font-weight:600;float:right;line-height:17px;letter-spacing:1px;}
+
+#gatochorro{width:100%;min-width:1050px;left:0%;position:absolute;top:2050px;height:350px;}
+.cachorro{float:left;margin-left:15px;width:47.5%;background:orange;height:350px;background:url('../ehdog.jpg');background-size:650px;}
+.gato{float:left;margin-left:20px;width:47.5%;background:orange;height:350px;background:url('../ehgato.jpg');background-size:650px;}
+.botaocho{float:left;padding-left:15px;padding-top:10px;display:block;background:white;border-radius:3px;color:#242529;width:85px;height:27px;
+font-size:11px;font-family:heebo;letter-spacing:1px;font-weight:600;line-height:18px;}
+.taescrito{float:right;margin-top:100px;margin-right:100px;}
+.taescrito2{float:left;margin-top:100px;margin-left:100px;}
+
+#instagram{width:100%;min-width:1050px;height:320px;top:2440px;left:0%;position:absolute;margin-top:20px;}
+.box_insta{height:200px; width:95%; margin:0 auto;border-radius:4px;overflow:hidden;position:relative;z-index:8;min-width:1050px;}
+.graleft{background-image: linear-gradient(to right, white 0%, transparent 100%);margin-left:31px;z-index:900;float:left;height:220px;width:255px;margin-bottom:-210px;position:relative;}
+.gradir{background-image: linear-gradient(to left, white 0%, transparent 100%);float:right;position:relative;z-index:900;height:220px;width:255px;margin-top:-210px;}
+.carinsta{display:block;width:1000%;margin-top:16px;}
+.refinsta{float:left;margin-left:25px;z-index:800;cursor:pointer;}
+
+#revender{width:100%;min-width:1050px;background:url('../fundo_lar.jpg');background-size:1400px;
+height:485px;position:absolute;top:2800px;left:0%;color:white;}
+.textorev{float:left;margin-left:135px;margin-top:45px;font-family:heebo;width:450px;height:375px;}
+.botaorep{float:left;padding-left:18px;padding-top:15px;display:block;background:white;border-radius:3px;color:#242529;width:195px;height:30px;
+font-size:13px;font-family:heebo;letter-spacing:1px;font-weight:600;line-height:17px;margin-right:20px;}
+.botaofranq{float:left;padding-left:18px;padding-top:15px;display:block;background:white;border-radius:3px;color:#FF5100;width:191px;height:30px;
+font-size:13px;font-family:heebo;letter-spacing:1px;font-weight:600;line-height:17px;}
+.indicar{position:relative;margin:0 auto;height:15px;width:80px;margin-top:15px;}
+.indico1{border-radius:10px;width:14px;height:14px;margin-right:10px;cursor:pointer;display:block;float:left;background:orange;}
+.indico2{border-radius:10px;width:14px;height:14px;margin-right:10px;cursor:pointer;display:block;float:left;background:#D8D7C2;}
+.indico3{border-radius:10px;width:14px;height:14px;cursor:pointer;display:block;float:left;background:#D8D7C2;}
+
+#news{min-width:1050px;line-height:25px;font-family:heebo;width:100%;left:0%;top:3320px;position:absolute;height:100px;color:#43444A;}
+.cg{font-family:heebo;text-decoration: none;padding:5px;font-weight:500;font-size:13px;color:white;background-color:#FF5100;
+border-radius: 3px;cursor:pointer;border:none;width:120px;height:40px;line-height:17px;letter-spacing:1px;margin-left:5px;}
+.cg:hover{background-color:orange;color:white;}
+input[type=text]{height:40px;font-size:15px;margin-right:10px;}
+
+#footer{position:absolute;top:3550px;min-width:1050px;font-family:heebo;height:900px;width:100%;background:#F8F8F8;left:0%;}
+.fimzao{position:absolute;bottom:0px;min-width:1050px;background-color:#141518;height:30px;color:white;width:100%;left:0%;right:0%;font-size:14px;padding-top:8px;}
+.prefim{position:relative;margin-left:360px;width:790px;height:220px;margin-top:65px;color:#242529;font-size:15px;float:left;background:#F8F8F8;}
+
+#doisfim{width:100%;min-width:1050px;height:405px;padding-top:90px;border-bottom:2px solid #eeeeee;background:url('../segura.jpg');background-size:1400px;}
+.blocosfim{position:relative;margin:0 auto;margin-top:25px;width:900px;height:310px;display:block;}
+.sobre{height:310px;margin-right:20px;width:190px;display:block;float:left;}
+.ajuda{height:310px;margin-right:40px;width:190px;display:block;float:left;}
+.sigam{height:310px;margin-right:20px;width:220px;display:block;float:left;}
+.pague{height:310px;width:220px;display:block;float:left;}
+
+
+	a{text-decoration:none;color:black;}
+body{
+   min-width:1050px;        /* Suppose you want minimum width of 1000px */
+   width: auto !important;  /* Firefox will set width as auto */
+   width:1050px;            /* As IE6 ignores !important it will set width as 1000px; */
+}
+
+@font-face{font-family:heebo;src:url(fonts/Heebo-ExtraBold.otf);}
+@font-face{font-family:heeboreg;src:url(fonts/Heebo-Regular.otf);}
