@@ -34,11 +34,11 @@ font-size:11px;font-family:heebo;letter-spacing:1px;font-weight:650;line-height:
 .botaobanner2{float:left;padding-left:12px;padding-top:10px;display:block;background:transparent;border-radius:3px;color:white;width:95px;height:27px;
 font-size:11px;font-family:heebo;letter-spacing:1px;font-weight:650;border:1px solid white;line-height:17px;margin-left:20px;}
 
-#estatico{left:0%;top:745px;height:350px;width:97%;position:relative;min-width:1030px;}
-.peitorais{font-family:heeboreg;width:48%;height:350px;background:#F8F8F8;display:block;font-size:14px;color:#242529;font-weight:600;float:left;line-height:17px;letter-spacing:1px;}
+#estatico{left:0%;top:745px;height:350px;width:98%;position:relative;min-width:1030px;}
+.peitorais{margin-left:15px;font-family:heeboreg;width:49%;height:350px;background:#F8F8F8;display:block;font-size:14px;color:#242529;font-weight:600;float:left;line-height:17px;letter-spacing:1px;}
 .roupinhas{font-family:heeboreg;width:48%;height:170px;background:#F8F8F8;display:block;font-size:14px;color:#242529;font-weight:600;float:right;line-height:17px;letter-spacing:1px;}
 
-#latdir{float:right;height:170px;width:48%;margin-top:10px;right:1%;}
+#latdir{float:right;height:170px;width:48%;margin-top:10px;}
 .coleiras{font-family:heeboreg;width:48%;height:170px;background:#F8F8F8;display:block;font-size:14px;color:#242529;font-weight:600;float:left;line-height:17px;letter-spacing:1px;}
 .guias{margin-right:0px;font-family:heeboreg;width:48%;height:170px;background:#F8F8F8;display:block;font-size:14px;color:#242529;font-weight:600;float:right;line-height:17px;letter-spacing:1px;}
 
